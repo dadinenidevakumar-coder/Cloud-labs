@@ -1,9 +1,10 @@
 Cloud Practice Labs
 
-This repository contains my cloud and Linux practice projects using KVM, Ubuntu Server, and SSH.
+Linux and cloud practice projects.
 
 Labs:
-Local VM Setup (KVM/QEMU)
-Linux Basic Commands
-SSH Configuration and Access
-Network Connectivity Tests
+
+• Local VM Setup
+• Linux Commands
+• SSH Setup
+• Network Tests
