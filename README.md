@@ -1,10 +1,13 @@
 Cloud Practice Labs
 
-Linux and cloud practice projects.
+This repository contains my Linux and cloud practice labs.
 
 Labs:
 
-• Local VM Setup
-• Linux Commands
-• SSH Setup
-• Network Tests
+Local VM Setup (KVM/QEMU)
+
+Linux Commands
+
+SSH Setup
+
+Network Tests
