@@ -4,10 +4,10 @@ This repository contains my Linux and cloud practice labs.
 
 Labs:
 
-Local VM Setup (KVM/QEMU)
+1.Local VM Setup (KVM/QEMU)
 
-Linux Commands
+2.Linux Commands
 
-SSH Setup
+3.SSH Setup
 
-Network Tests
+4.Network Tests
