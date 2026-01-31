@@ -1,5 +1,5 @@
 Azure Linux VM Lab
-
+ 
 This is my first basic cloud lab where I created a Linux virtual machine in Microsoft Azure. I am learning Azure, Linux and cloud fundamentals, so this lab was mainly to understand how a VM works and how to access it.
 
 I created a new resource group and then created an Ubuntu 22.04 virtual machine. I used the D4s v3 size which has 4 vCPUs and 16GB RAM. I kept all settings mostly default except enabling SSH access. Azure also created a virtual network, subnet, public IP and network interface automatically.
