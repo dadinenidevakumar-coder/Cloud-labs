@@ -25,4 +25,7 @@ From these commands, I confirmed that:
 - CPU, RAM and disk were showing properly
 - SSH service was active
 
-This lab helped me understand the basic process of creating a VM in Azure and connecting to it. I also practiced simple Linux commands. Overall this lab helped me understand the basics of Azure and Linux VM usage.
+This lab helped me understand the basic process of creating a VM in Azure and connecting to it. I also practiced simple Linux commands. In the next labs, I plan to install a web server and try hosting a simple page.
+
+This lab helped me understand the process of creating a Linux virtual machine on Azure, connecting to it using SSH, and checking basic system information.  
+In future labs, I plan to install a web server and test hosting a simple application.
