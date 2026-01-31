@@ -18,7 +18,7 @@ sudo apt upgrade -y
 sudo apt install nginx -y
 sudo systemctl start nginx
 sudo systemctl enable nginx
-echo "<h1>Welcome to Deva's Azure Web Server</h1>" | sudo tee /var/www/html/index.html
+echo // "<h1>Welcome to Deva's Azure Web Server</h1>" | sudo tee /var/www/html/index.html
 
 ## Output file
 All the lab outputs are saved in **Lab2-output.text**
