@@ -4,10 +4,12 @@ This repository contains my Linux and cloud practice labs.
 
 Labs:
 
-1.Local VM Setup (KVM/QEMU)  AND MS Azure VM
+1.Local VM Setup (KVM/QEMU)  
 
-2.Linux Commands
+2.MS Azure VM
 
-3.SSH Setup
+3.Linux Commands
 
-4.Network Tests
+4.SSH Setup
+
+5.Network Tests
