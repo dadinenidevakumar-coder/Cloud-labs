@@ -1,0 +1,57 @@
+Azure Storage
+In this lab, I learned how to use Azure Storage.
+I created a storage account, made a blob container, uploaded a file, and used a SAS link to open the file.
+1. Creating the Storage Account
+
+I opened the Azure Portal and created a new storage account.
+I used these basic settings:
+
+Resource group: cloud-lab-rg
+
+Region: Central India
+
+Type: Standard
+
+Redundancy: LRS
+
+After filling the details, I clicked Create.
+2. Creating a Blob Container
+
+Inside the storage account, I went to Containers and created a new one.
+
+Container name: lab3container
+
+Access level: Private
+3. Uploading a File
+
+I opened the container and uploaded a test file (example: “lab3-output.txt”).
+The upload worked without any issue.
+4. Creating a SAS Link
+
+I clicked on the uploaded file and selected Generate SAS.
+I allowed only Read permission and set an expiry time.
+Then I copied the generated SAS URL.
+5. Testing the SAS Link
+
+I tested the SAS link in two ways:
+
+In browser:
+
+The file opened successfully.
+
+From my VM:
+
+I ran this command:                       curl -I " sas link " and then i got like output HTTP/1.1 200 OK.
+
+I learned
+
+How to create a storage account
+
+How blob containers work
+
+How to upload a file
+
+How SAS links are used for secure access
+
+How to test access from both browser and VM
+
