@@ -8,7 +8,7 @@ Labs:
 
 2.MS Azure VM
 
-3.Linux Commands
+3.Web Server Linux Commands
 
 4.SSH Setup
 
