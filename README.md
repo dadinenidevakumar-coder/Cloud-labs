@@ -10,6 +10,7 @@ Labs:
 
 3.Web Server Linux Commands
 
-4.SSH Setup
+4.Storage
 
-5.Network Tests
+5.Monitoring
+
